@@ -1,0 +1,71 @@
+# LexiPal 🧠📚 — Your Dyslexia Support Companion
+
+**LexiPal** is a personalized AI companion designed to assist individuals with dyslexia in reading, writing, and daily organization. Built during the *World’s Largest Hackathon by Bolt*, LexiPal empowers users with simplified text, voice interaction, and custom learning support.
+
+---
+
+## 🚀 Live App
+👉 [https://stalwart-sunburst-0a5e5a.netlify.app](https://stalwart-sunburst-0a5e5a.netlify.app)
+
+---
+
+## ✨ Features
+
+- 🎙️ **Speak with Lex** — Use voice commands and get content read aloud.
+- 📖 **Text Simplification** — Converts difficult text into easy-to-read versions.
+- 🧠 **Personalized Dyslexia Quiz** — Understand the user's unique learning profile.
+- 🗓️ **Daily Planner** — Organize with visual scheduling and reminders.
+- 🧩 **Fun Learning Exercises** — Play cognitive games tailored to learning styles.
+- 🤝 **Connect & Learn** — (Coming soon!) Join a community of supportive learners.
+
+---
+
+## 👇 Built With
+
+- ⚡ **Bolt.new** — No-code/low-code builder for full-stack applications
+- 🌐 **React + TypeScript**
+- 🔊 **react-speech-recognition** — Voice command and speech-to-text
+- 🛠️ **Supabase** — Authentication & database
+- 🧠 **OpenAI GPT** (future extension planned)
+- 🎨 **Tailwind CSS** — Responsive, accessible design
+- 🌍 **Netlify** — Frontend hosting
+
+---
+
+## 🧩 Inspiration
+
+Dyslexia affects over 700 million people worldwide — but most tools are generic or overwhelming. We wanted to build a **compassionate, accessible, and personalized** app to help people navigate reading, writing, and life with ease.
+
+LexiPal was born from the belief that tech can be a **friend** — not a barrier — for learners with different needs.
+
+---
+
+## 🧠 What We Learned
+
+- Designing for neurodiversity involves **simplicity, empathy, and adaptability**.
+- Speech and accessibility APIs can create meaningful change when used well.
+- Fast prototyping using Bolt + Supabase can enable full-stack apps in hours.
+
+---
+
+## ⛅ Challenges We Faced
+
+- Designing a dashboard friendly to all dyslexic types: visual, auditory, and processing.
+- Making voice features intuitive while being fail-safe.
+- Customizing layout and fonts to be **dyslexia-friendly** and distraction-free.
+
+---
+
+## 📌 Try it out!
+
+- 🔗 App: [https://stalwart-sunburst-0a5e5a.netlify.app](https://stalwart-sunburst-0a5e5a.netlify.app)
+- 💬 Say “Hi Lex!” to get started on the dashboard.
+- 🧠 Complete the quiz to personalize your LexiPal.
+
+---
+
+## 🛠️ Setup Instructions (if cloned from GitHub)
+
+```bash
+npm install
+npm start
